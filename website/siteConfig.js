@@ -88,6 +88,12 @@ const users = [
     infoLink: 'https://intellihr.com.au',
     pinned: true,
   },
+    {
+    caption: 'iLoveCoding',
+    image: '/img/users/ilovecoding.svg',
+    infoLink: 'https://iLoveCoding.org',
+    pinned: true,
+  },
 ]
 
 const siteConfig = {
